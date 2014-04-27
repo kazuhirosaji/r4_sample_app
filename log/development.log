@@ -5477,3 +5477,2015 @@ Binary data inserted for `string` type on column `password_digest`
   [1m[36mSQL (9.7ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "name", "password_digest", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["created_at", Tue, 22 Apr 2014 14:17:58 UTC +00:00], ["email", "saji@mail.com"], ["name", "Kazuhiro Saji"], ["password_digest", "$2a$10$UW949NJ.P/avKL1yUtaO5.Skk9UDHYDRDeT9LuC71lgJI9PI.lqKy"], ["updated_at", Tue, 22 Apr 2014 14:17:58 UTC +00:00]]
   [1m[35m (2.0ms)[0m  commit transaction
   [1m[36mUser Load (1.5ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."email" = 'saji@mail.com' LIMIT 1[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 07:37:57 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (20.5ms)
+Warning. Error encountered while saving cache c5030b71efc31e9226f902cfdfbd7687f763b99e/custom.css.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 85b13ef10427fdcad6a84693f660e34eca223339/bootstrap.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/bootstrap.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_variables.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_mixins.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_reset.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_grid.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_layouts.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_type.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_code.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_forms.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tables.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_sprites.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_wells.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_component-animations.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_close.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_buttons.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_button-groups.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_alerts.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navs.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navbar.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pagination.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pager.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_modals.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tooltip.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_popovers.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_media.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_accordion.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_carousel.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_utilities.scssc: can't dump anonymous class #<Class:0x007f80891140c0>
+
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 3764ms (Views: 3762.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-22 07:38:01 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (4.5ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (15.5ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (46.3ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2014-04-22 07:38:23 -0700
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 90ms (Views: 89.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-04-22 07:38:31 -0700
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 83ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 07:42:32 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (100.1ms)
+  Rendered layouts/_shim.html.erb (2.0ms)
+  Rendered layouts/_header.html.erb (2.9ms)
+  Rendered layouts/_footer.html.erb (2.8ms)
+Completed 200 OK in 1263ms (Views: 1253.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 07:42:35 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-22 07:42:35 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-22 07:42:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:36 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-22 07:42:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:36 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:37 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 07:42:37 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-22 07:42:37 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (5.1ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (64.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (183.9ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-22 07:43:00 -0700
+
+ActionController::RoutingError (No route matches [GET] "/users/1"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.9ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (7.5ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (17.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (109.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-22 07:49:12 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (105.7ms)
+  Rendered layouts/_shim.html.erb (1.7ms)
+  Rendered layouts/_header.html.erb (7.7ms)
+  Rendered layouts/_footer.html.erb (3.5ms)
+Completed 200 OK in 1312ms (Views: 1308.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 07:49:15 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-22 07:49:15 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-22 07:49:16 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-22 07:49:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:17 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:17 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 07:49:17 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-22 07:49:17 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (8.9ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (56.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (186.7ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-22 07:49:23 -0700
+
+AbstractController::ActionNotFound (The action 'show' could not be found for UsersController):
+  actionpack (4.0.2) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__1108105701422649863__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (2.1ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-22 07:52:27 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (1.7ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (16.3ms)
+  Rendered layouts/_shim.html.erb (6.1ms)
+  Rendered layouts/_header.html.erb (11.3ms)
+  Rendered layouts/_footer.html.erb (9.1ms)
+Completed 200 OK in 1555ms (Views: 1172.9ms | ActiveRecord: 4.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-22 07:52:31 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-22 07:52:31 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-22 07:52:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:32 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-22 07:52:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:32 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:33 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-22 07:52:33 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-04-22 07:52:51 -0700
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (2.3ms)
+  Rendered layouts/_shim.html.erb (1.3ms)
+  Rendered layouts/_header.html.erb (3.5ms)
+  Rendered layouts/_footer.html.erb (6.8ms)
+Completed 200 OK in 481ms (Views: 463.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 08:24:38 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (85.2ms)
+  Rendered layouts/_shim.html.erb (1.4ms)
+  Rendered layouts/_header.html.erb (3.7ms)
+  Rendered layouts/_footer.html.erb (2.7ms)
+Completed 200 OK in 1407ms (Views: 1396.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:24:42 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:24:42 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:24:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:43 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:24:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:43 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:44 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:24:44 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-23 08:24:44 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (10.9ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (8.0ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (97.4ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (282.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-04-23 08:24:47 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_shim.html.erb (1.6ms)
+  Rendered layouts/_header.html.erb (6.6ms)
+  Rendered layouts/_footer.html.erb (3.1ms)
+Completed 200 OK in 372ms (Views: 369.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-23 08:25:18 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (2.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (4.8ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 665ms (Views: 320.3ms | ActiveRecord: 5.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:25:19 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:25:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:19 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:25:20 -0700
+  [1m[36mUser Load (1.6ms)[0m  [1mSELECT "users".* FROM "users" ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35m (0.9ms)[0m  begin transaction
+  [1m[36mUser Exists (4.3ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE (LOWER("users"."email") = LOWER('kazuhirosaji@gmail.com') AND "users"."id" != 1) LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (59.1ms)[0m  UPDATE "users" SET "email" = ?, "password_digest" = ?, "updated_at" = ? WHERE "users"."id" = 1  [["email", "kazuhirosaji@gmail.com"], ["password_digest", "$2a$10$OA0UdVkhmidvhkycRWre.uyluLUg9Sd.PlVqM7/RJClloE2eZMuZK"], ["updated_at", Wed, 23 Apr 2014 15:28:17 UTC +00:00]]
+  [1m[36m (6.4ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-23 08:28:26 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (2.7ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  Rendered layouts/_header.html.erb (3.3ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 369ms (Views: 353.9ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:28:27 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:28:27 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:28:27 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:28:27 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:27 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:28 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:28 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:28 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:28:28 -0700
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-23 08:31:43 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (2.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (4.8ms)
+Warning. Error encountered while saving cache c5030b71efc31e9226f902cfdfbd7687f763b99e/custom.css.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 85b13ef10427fdcad6a84693f660e34eca223339/bootstrap.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/bootstrap.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_variables.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_mixins.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_reset.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_grid.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_layouts.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_type.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_code.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_forms.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tables.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_sprites.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_wells.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_component-animations.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_close.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_buttons.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_button-groups.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_alerts.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navs.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navbar.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pagination.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pager.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_modals.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tooltip.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_popovers.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_media.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_accordion.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_carousel.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_utilities.scssc: can't dump anonymous class #<Class:0x007f6d0e78c3f0>
+
+  Rendered layouts/_shim.html.erb (0.3ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 13608ms (Views: 13600.6ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:31:57 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:31:57 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:31:57 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:31:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:58 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:58 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:31:59 -0700
+  [1m[36m (16.0ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime, "password_digest" varchar(255)) [0m
+  [1m[35m (15.6ms)[0m  CREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")
+  [1m[36m (26.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (20.0ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (2.3ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (21.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20140421150911')
+  [1m[36m (21.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20140420114059')[0m
+  [1m[35m (21.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20140420131500')
+  [1m[36mActiveRecord::SchemaMigration Load (2.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 08:33:43 -0700
+
+ActiveRecord::PendingMigrationError (Migrations are pending; run 'bin/rake db:migrate RAILS_ENV=development' to resolve this issue.):
+  activerecord (4.0.2) lib/active_record/migration.rb:379:in `check_pending!'
+  activerecord (4.0.2) lib/active_record/migration.rb:366:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__1735174131779361011__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.4ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (248.8ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (13.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (468.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 08:34:23 -0700
+
+ActiveRecord::PendingMigrationError (Migrations are pending; run 'bin/rake db:migrate RAILS_ENV=development' to resolve this issue.):
+  activerecord (4.0.2) lib/active_record/migration.rb:379:in `check_pending!'
+  activerecord (4.0.2) lib/active_record/migration.rb:366:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__1735174131779361011__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (13.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.5ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (81.2ms)
+  [1m[36m (11.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (10.1ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateUsers (20140420114059)
+  [1m[35m (0.5ms)[0m  begin transaction
+  [1m[36m (11.0ms)[0m  [1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (1.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140420114059"]]
+  [1m[36m (5.8ms)[0m  [1mcommit transaction[0m
+Migrating to AddIndexToUsersEmail (20140420131500)
+  [1m[35m (0.4ms)[0m  begin transaction
+  [1m[36m (6.9ms)[0m  [1mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140420131500"]]
+  [1m[36m (10.1ms)[0m  [1mcommit transaction[0m
+Migrating to AddPasswordDigestToUsers (20140421150911)
+  [1m[35m (0.6ms)[0m  begin transaction
+  [1m[36m (6.4ms)[0m  [1mALTER TABLE "users" ADD "password_digest" varchar(255)[0m
+  [1m[35mSQL (1.6ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20140421150911"]]
+  [1m[36m (13.8ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (1.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 08:35:38 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.9ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (97.8ms)
+  Rendered layouts/_shim.html.erb (3.3ms)
+  Rendered layouts/_header.html.erb (3.9ms)
+  Rendered layouts/_footer.html.erb (2.7ms)
+Completed 200 OK in 1331ms (Views: 1328.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:35:41 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:35:42 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:35:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:42 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:35:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:43 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:43 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:35:43 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-23 08:35:44 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.7ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (15.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (73.0ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (250.9ms)
+
+
+Started GET "/users/" for 127.0.0.1 at 2014-04-23 08:35:51 -0700
+
+AbstractController::ActionNotFound (The action 'index' could not be found for UsersController):
+  actionpack (4.0.2) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__927238113191614462__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (1.5ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-23 08:35:56 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (1.6ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+Completed 404 Not Found in 346ms
+
+ActiveRecord::RecordNotFound (Couldn't find User with id=1):
+  app/controllers/users_controller.rb:3:in `show'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.7ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.3ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (12.8ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (120.8ms)
+  [1m[36m (1.3ms)[0m  [1mSELECT COUNT(*) FROM "users"[0m
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-23 08:47:29 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.9ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (148.6ms)
+Warning. Error encountered while saving cache c5030b71efc31e9226f902cfdfbd7687f763b99e/custom.css.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 85b13ef10427fdcad6a84693f660e34eca223339/bootstrap.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/bootstrap.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_variables.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_mixins.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_reset.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_grid.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_layouts.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_type.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_code.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_forms.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tables.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_sprites.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_wells.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_component-animations.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_close.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_buttons.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_button-groups.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_alerts.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navs.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navbar.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pagination.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pager.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_modals.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tooltip.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_popovers.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_media.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_accordion.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_carousel.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_utilities.scssc: can't dump anonymous class #<Class:0x007f126e41c3c8>
+
+  Rendered layouts/_shim.html.erb (6.9ms)
+  Rendered layouts/_header.html.erb (14.4ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 21805ms (Views: 21800.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-23 08:47:54 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-23 08:47:54 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-23 08:47:54 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-23 08:47:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:55 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:55 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:56 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-23 08:47:56 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-23 08:47:56 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (12.8ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (11.1ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (132.4ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (550.6ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-04-23 08:48:14 -0700
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (186.5ms)
+  Rendered layouts/_shim.html.erb (1.3ms)
+  Rendered layouts/_header.html.erb (3.5ms)
+  Rendered layouts/_footer.html.erb (2.6ms)
+Completed 200 OK in 670ms (Views: 506.5ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2014-04-26 08:33:55 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+AbstractController::ActionNotFound (The action 'index' could not be found for UsersController):
+  actionpack (4.0.2) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__766499342790058526__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-26 08:34:02 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (14.3ms)
+Warning. Error encountered while saving cache c5030b71efc31e9226f902cfdfbd7687f763b99e/custom.css.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 85b13ef10427fdcad6a84693f660e34eca223339/bootstrap.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/bootstrap.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_variables.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_mixins.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_reset.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_grid.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_layouts.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_type.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_code.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_forms.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tables.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_sprites.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_wells.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_component-animations.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_close.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_buttons.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_button-groups.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_alerts.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navs.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_navbar.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pagination.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_pager.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_modals.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_tooltip.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_popovers.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_media.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_accordion.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_carousel.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+Warning. Error encountered while saving cache 7ce686eb092f3130d43f57135df06484933b222e/_utilities.scssc: can't dump anonymous class #<Class:0x007f82ac5e8450>
+
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 3289ms (Views: 3287.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-26 08:34:05 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-26 08:34:06 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.9ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (17.9ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (48.5ms)
+
+
+Started GET "/users/" for 127.0.0.1 at 2014-04-26 08:34:24 -0700
+
+AbstractController::ActionNotFound (The action 'index' could not be found for UsersController):
+  actionpack (4.0.2) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__766499342790058526__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (4.9ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-04-26 08:34:34 -0700
+Processing by UsersController#new as HTML
+ERROR: compiling _app_views_shared__error_messages_html_erb__1777593350236463075_70099592888400 RAISED /mnt/hgfs/share/rails/r4_sample_app/app/views/shared/_error_messages.html.erb:14: syntax error, unexpected keyword_ensure, expecting end-of-input
+Function body:           def _app_views_shared__error_messages_html_erb__1777593350236463075_70099592888400(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "shared/_error_messages";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_append='f @user.errors.any? %>
+  <div id="error_explanation">
+    <div class="alert alert-error">
+      The form contains ';@output_buffer.append=( pluralize(@user.errors.count, "error") );@output_buffer.safe_append='.
+    </div>
+    <ul>
+';     @user.errors.full_messages.each do |msg| 
+@output_buffer.safe_append='      <li>* ';@output_buffer.append=( msg );@output_buffer.safe_append='</li>
+';     end 
+@output_buffer.safe_append='    </ul>
+  </div>
+'; end 
+@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:299:in `module_eval'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:299:in `compile'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:248:in `block in compile!'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:236:in `synchronize'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:236:in `compile!'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:142:in `block in render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:161:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:141:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:306:in `render_partial'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:279:in `block in render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/partial_renderer.rb:278:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:47:in `render_partial'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/rendering_helper.rb:27:in `render'
+/mnt/hgfs/share/rails/r4_sample_app/app/views/users/new.html.erb:6:in `block in _app_views_users_new_html_erb___1912365986064554637_70099406764100'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/capture_helper.rb:38:in `block in capture'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/capture_helper.rb:200:in `with_output_buffer'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/capture_helper.rb:38:in `capture'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/helpers/form_helper.rb:435:in `form_for'
+/mnt/hgfs/share/rails/r4_sample_app/app/views/users/new.html.erb:5:in `_app_views_users_new_html_erb___1912365986064554637_70099406764100'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:143:in `block in render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:161:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/template.rb:141:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/template_renderer.rb:17:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_view/renderer/renderer.rb:23:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:127:in `_render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/streaming.rb:219:in `_render_template'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:120:in `render_to_body'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:97:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:16:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/base.rb:189:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:403:in `_run__2948132727313812236__process_action__callbacks'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `block in instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/notifications.rb:159:in `instrument'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/base.rb:136:in `process'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/rendering.rb:44:in `process'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal.rb:195:in `dispatch'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal.rb:231:in `block in action'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:80:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:48:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:71:in `block in call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:59:in `each'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/journey/router.rb:59:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/routing/route_set.rb:680:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/flash.rb:241:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/cookies.rb:486:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/query_cache.rb:36:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activerecord-4.0.2/lib/active_record/migration.rb:369:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:373:in `_run__766499342790058526__call__callbacks'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/reloader.rb:64:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:38:in `call_app'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:20:in `block in call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:25:in `tagged'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/tagged_logging.rb:67:in `tagged'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/rack/logger.rb:20:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/activesupport-4.0.2/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/static.rb:64:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/engine.rb:511:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/railties-4.0.2/lib/rails/application.rb:97:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+/root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+  Rendered shared/_error_messages.html.erb (14.8ms)
+  Rendered users/new.html.erb within layouts/application (59.2ms)
+Completed 500 Internal Server Error in 123ms
+
+ActionView::Template::Error (/mnt/hgfs/share/rails/r4_sample_app/app/views/shared/_error_messages.html.erb:14: syntax error, unexpected keyword_ensure, expecting end-of-input):
+    11:   </div>
+    12: <% end %>
+  app/views/users/new.html.erb:6:in `block in _app_views_users_new_html_erb___1912365986064554637_70099406764100'
+  app/views/users/new.html.erb:5:in `_app_views_users_new_html_erb___1912365986064554637_70099406764100'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.2ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (5.1ms)
+  Rendered users/new.html.erb within layouts/application (29.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 95ms (Views: 94.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:47 -0700
+
+
+Started POST "/users" for 127.0.0.1 at 2014-04-26 08:35:52 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FKhPQlb9EGo19onhJMqu0S8Mn2uATQ2Hcmhp+Xc/s7I=", "user"=>{"name"=>"", "email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mUser Exists (0.9ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('') LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (4.1ms)
+  Rendered users/new.html.erb within layouts/application (15.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 110ms (Views: 82.7ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:52 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-26 08:35:53 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-27 05:56:56 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (17.4ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 295ms (Views: 294.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-27 05:56:57 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (16.8ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (36.9ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-04-27 05:57:11 -0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (3.9ms)
+  Rendered users/new.html.erb within layouts/application (38.7ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 199ms (Views: 118.6ms | ActiveRecord: 1.2ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FKhPQlb9EGo19onhJMqu0S8Mn2uATQ2Hcmhp+Xc/s7I=", "user"=>{"name"=>"Rails Tutorial", "email"=>"example@railstutorial.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (1.0ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('example@railstutorial.jp') LIMIT 1[0m
+Binary data inserted for `string` type on column `password_digest`
+  [1m[35mSQL (9.0ms)[0m  INSERT INTO "users" ("created_at", "email", "name", "password_digest", "updated_at") VALUES (?, ?, ?, ?, ?)  [["created_at", Sun, 27 Apr 2014 12:57:40 UTC +00:00], ["email", "example@railstutorial.jp"], ["name", "Rails Tutorial"], ["password_digest", "$2a$10$XOJ2WhJtmJC3ani1KX/LBObfGrw2zavVMAysUr127kCVDuVCTrxgO"], ["updated_at", Sun, 27 Apr 2014 12:57:40 UTC +00:00]]
+  [1m[36m (1.5ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/users/1
+Completed 302 Found in 132ms (ActiveRecord: 11.5ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 73ms (Views: 71.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-27 05:57:41 -0700
+
+
+Started GET "/users/" for 127.0.0.1 at 2014-04-27 05:58:14 -0700
+
+AbstractController::ActionNotFound (The action 'index' could not be found for UsersController):
+  actionpack (4.0.2) lib/abstract_controller/base.rb:131:in `process'
+  actionpack (4.0.2) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.2) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.2) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.2) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.2) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.2) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.2) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.2) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:373:in `_run__152234084711337606__call__callbacks'
+  activesupport (4.0.2) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.2) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users/1" for 127.0.0.1 at 2014-04-27 05:58:30 -0700
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 64ms (Views: 61.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:30 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:31 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-27 05:58:33 -0700
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (16.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 96ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/images/rails.png" for 127.0.0.1 at 2014-04-27 05:58:33 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/rails.png"):
+  actionpack (4.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.2) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.2) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.2) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.2) lib/rails/engine.rb:511:in `call'
+  railties (4.0.2) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /root/.rbenv/versions/2.0.0-p451/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (2.2ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.7ms)
+  Rendered /root/.rbenv/versions/2.0.0-p451/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (32.3ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-04-27 05:58:36 -0700
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.2ms)
+  Rendered users/new.html.erb within layouts/application (16.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 100ms (Views: 99.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FKhPQlb9EGo19onhJMqu0S8Mn2uATQ2Hcmhp+Xc/s7I=", "user"=>{"name"=>"sdfa", "email"=>"a", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.8ms)[0m  [1mSELECT 1 AS one FROM "users" WHERE LOWER("users"."email") = LOWER('a') LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (4.4ms)
+  Rendered users/new.html.erb within layouts/application (20.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 101ms (Views: 91.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-27 05:58:42 -0700
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."email" = 'example@railstutorial.jp' LIMIT 1[0m
